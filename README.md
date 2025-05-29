@@ -16,6 +16,9 @@ Most of the work is self-contained. Each folder includes the code (and sometimes
 | Genetic Algorithms           | Binary fitness maximization and the n-Queens problem                |
 | Adversarial Search           | MinMax, Alpha-Beta pruning, Tic-Tac-Toe, Nim, and Breakthrough      |
 | Constraint Satisfaction      | Map coloring, forward checking, AC-3, and scheduling                |
+| Bayesian Networks            | Inference, marginal and conditional probability, custom networks    |
+| Hidden Markov Models         | Forward algorithm and Viterbi decoding for ice cream observations   |
+| Decision Tree Classification | ML classification using scikit-learn and real-world datasets        |
 
 ---
 
