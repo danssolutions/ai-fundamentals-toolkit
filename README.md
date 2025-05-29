@@ -28,3 +28,6 @@ Each topic is in its own folder (e.g. `agents/`, `genetic_algorithms/`, etc.). Y
 
 ```bash
 python topic_folder/your_script.py
+```
+
+Note: If you're using Python versions earlier than 3.6, some code may break due to newer syntax. For best results, use Python 3.12 or higher.
